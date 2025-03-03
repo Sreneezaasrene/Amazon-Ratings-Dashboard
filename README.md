@@ -24,4 +24,8 @@ The **Amazon Show Ratings Dashboard** is an interactive Power BI report that vis
 ## 🚀 Getting Started
 1. **Clone the Repository**
    ```sh
-   ![Screenshot 2025-03-03 115922](https://github.com/user-attachments/assets/aaafa5f6-f690-40c9-a1ec-62f968773fbd)
+       https://github.com/Sreneezaasrene/Amazon-Ratings-Dashboard.git.
+
+DashBoard Preview.
+![Screenshot 2025-03-03 115922](https://github.com/user-attachments/assets/85a5eebe-cd8b-4cc7-aa9a-c10d5fca483e)
+
